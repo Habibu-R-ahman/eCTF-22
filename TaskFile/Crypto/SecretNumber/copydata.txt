@@ -1,0 +1,12 @@
+Neha's teacher puts the answer in the code and makes things a little too easy. She is given a smart contract which takes 0.1 eth for each guess. This time Teacher has only stored the hash of the number. Good luck reversing a cryptographic hash!
+
+For the flag,calculate the first 15 characters from hash of the secret number when expressed in words
+
+Ex: 111=onehundredeleven is to be hashed
+
+Flag format: CTF{...}
+
+Link to the smart contract metadata:
+
+contract.sol https://bafybeie7tsbyzkuvsbpskmm2fm55rhbbkkixghcmmvvudywpgyr3zib2ui.ipfs.dweb.link/
+contractInteraction  https://ropsten.etherscan.io/address/0xc4e02bf49a7d07315660557130fca0061106a55e
